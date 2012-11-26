@@ -4,6 +4,8 @@ After watching a video from Matthias Wandel (http://www.youtube.com/watch?v=Omeh
 
 This script is far from perfect but it can give a ballpark estimate and you should be able to compare two (or more) different pictures from those results.
 
+All images are credit of Matthias.
+
 ## Examples ##
 
 Here are some screenshots as example:
