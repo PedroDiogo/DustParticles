@@ -12,10 +12,10 @@ Here are some screenshots as example:
   
     images/box_bedroom-b.jpg : 144 particles
     
-![](bedroom.png)
+![](http://pedrodiogo.github.com/DustParticles/bedroom.png)
   
     $ python dust.py -s images/box_tablesawed-b.jpg 
   
     images/box_tablesawed-b.jpg : 492 particles
     
-![](workshop.png)
+![](http://pedrodiogo.github.com/DustParticles/workshop.png)
